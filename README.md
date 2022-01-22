@@ -14,7 +14,8 @@ Java Scipt not yet enabled. Cart is yet to be responsive.
 ## Technologies Used
 HTML 5, CSS
 ## Support and contact details
-
+https://github.com/arnaudgerry/ 
+https://twitter.com/arnoldgerry1
 ### License
 *{}*
 Copyright (c) 2022 **Arnold Gerry**
