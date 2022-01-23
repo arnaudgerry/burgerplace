@@ -1,9 +1,36 @@
-h1{
-    text-align: left;
+body{
+    font-family: 'Poppins';
+    font-size: 18px;
+}
+
+/* navbar */
+header{
+    background-color: white;
+    height: 66px;
+}
+
+header *{
     color: black;
 }
 
-body{
-    background-color: yellow;
-    text-align: center;
+header ul{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    list-style: none;
+    padding: .5em;
+    margin: 0;
 }
+
+header ul li{
+    margin: 0 1em;
+}
+
+header ul li.logo{
+    margin-right: auto;
+}
+
+
+
+
+
