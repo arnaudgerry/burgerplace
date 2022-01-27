@@ -7,10 +7,10 @@
 + [Description](#Description)
 + [Setup/Installation Requirements](#Setup/Installation-Requirements)
 + [Known Bugs](#Known-Bugs)
-+ [Technology Used](#Technology-used)
++ [Technologies Used](#Technologies-Used)
 + [Reference](#Reference)
 + [Support and contact details](#Support-and-contact-details)
-+ [Licence](#Licence)
++ [License](#License)
 + [Authors Info](#Authors-Info)
 
 
@@ -43,8 +43,7 @@ Find Arnold Gerry on [Twitter](https://twitter.com/arnoldgerry1) or on [Github](
 
 [Go Back to the top](#burgerplace)
 
-##License
-*This project is Licensed with;*   
+##License  
 
 MIT License
 
