@@ -14,16 +14,10 @@ header *{
 header ul{
     display: flex;
     align-items: center;
-    text-decoration: none;
     background-color: white;
     list-style: none;
     padding: .5em;
     margin: 0;
-}
-
-header ul a{
-    text-decoration: none;
-    list-style: none;
 }
 
 header ul li{
@@ -35,20 +29,12 @@ header ul li.logo{
 }
 
 
-/* Page Wrapper */
-.pagewrapper{
-    min-height: 100vh;
-}
-
-
 
 /* FOOTER */
 .footer{
-    background: green;
+    background: greens;
     height: 400px;
     position: relative;
-    bottom: 0;
-
 }
 
 .footer .footer-content{
@@ -61,8 +47,7 @@ header ul li.logo{
 .footer .footer-content .footer-section{
     flex: 1;
     padding: 25px;
-    border: 1px solid blue;
-    margin-bottom: 20px;
+    /*border: 1px solid blue;*/
 }
 
 .footer .footer-content .about h2 span{
@@ -76,17 +61,12 @@ header ul li.logo{
 }
 
 
-
 .footer .footer-content .links ul a{
     display: block;
     margin-bottom: 10px;
     font-size: 1.2em;
     transition: all .3s;
-    text-decoration: none;
-    list-style: none;
-    margin-bottom: 5px;
 }
-
 
 .footer .footer-bottom{
     background: #FFFFFF;
