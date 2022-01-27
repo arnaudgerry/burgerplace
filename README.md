@@ -5,7 +5,7 @@
 
 ## Table of Content
 + [Description](#Description)
-+ [Setup/Installation Requirements](#Setup/Installation-Requirements)
++ [Setup and Installation Requirements](#Setup-and-Installation-Requirements)
 + [Known Bugs](#Known-Bugs)
 + [Technologies Used](#Technologies-Used)
 + [Reference](#Reference)
@@ -18,7 +18,7 @@
 **Burgerplace** is a website project for Burger Palace, an eatery that mainly specializes in making and selling tasty burgers.     
 The website gives the Palace's clients an option to purchase online and request for delivery.
 
-## Setup/Installation Requirements
+## Setup and Installation Requirements
 * A personal pc, tablet or smartphone
 * Valid email or phone number to create account
 * Internet
@@ -43,7 +43,7 @@ Find Arnold Gerry on [Twitter](https://twitter.com/arnoldgerry1) or on [Github](
 
 [Go Back to the top](#burgerplace)
 
-##License  
+## License  
 
 MIT License
 
