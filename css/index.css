@@ -36,8 +36,87 @@ header ul li.logo{
 
 
 /* Page Wrapper */
-.pagewrapper{
+/*.pagewrapper{
     min-height: 100vh;
+}*/
+
+.pagewrapper .content5{
+    padding: 20px;
+    margin: 2px;
+    height: 650px;
+    width: 100%;
+    /*border: 2px solid blue;*/
+    box-sizing: content-box;
+    display: flex;
+    background-color: #F6B531;
+}
+
+.pagewrapper .content5 .discover{
+    padding: 5x;
+    margin: 5px;
+    height: 600px;
+    width: 40%;
+    /*border: 2px solid red;*/
+    box-sizing: content-box;
+    margin-left: 40px;
+}
+
+.discover p{
+    font-size: 60px;
+    margin-left: 40px;
+    padding-top: 30px;
+
+}
+
+.discover img{
+   align-items: center;
+}
+
+#google{
+    width: 30%;
+    height: auto;
+    padding-left: 40px;
+}
+
+#appstore{
+    width: 50%;
+    height: auto;
+    padding-bottom: 40px;  
+    
+}
+
+.pagewrapper .content5 .phone{
+    padding: 5x;
+    margin: 5px;
+    height: 600px;
+    width: 55%;
+    /*border: 2px solid red;*/
+    box-sizing: content-box;
+    
+}
+
+.phone{
+   
+    justify-content: left;
+}
+
+#mobile1{
+    width: 28%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+}
+
+#mobile2{
+    width: 28%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    float: right;
+    padding-right: 300px;
+    margin-bottom: 5px;
 }
 
 
@@ -61,7 +140,7 @@ header ul li.logo{
 .footer .footer-content .footer-section{
     flex: 1;
     padding: 25px;
-    border: 1px solid blue;
+    /*border: 1px solid blue;*/
     margin-bottom: 20px;
 }
 
