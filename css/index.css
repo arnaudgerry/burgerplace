@@ -34,6 +34,43 @@ header ul li.logo{
     margin-right: auto;
 }
 
+.pagewrapper .content1{
+    height: 800px;
+    background:-webkit-linear-gradient(-25deg,#ffff 53%,#ffbf1c 30%);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.pagewrapper .content1 .writerup{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+#writeup1{
+    color: #000000;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+#writeup2{
+    color: #000000;
+    padding-left: 100px;
+}
+
+#order{
+    width: 150px;
+    height: 70px;
+    border-radius: 40px 40px 0px 40px;
+    margin-left: 100px;
+    margin-top: 200px;
+    background-color: #F9952D;
+    color: rgb(247, 253, 246);
+    border-color: #F9952D;
+}
+
+
 .pagewrapper .content2{
     margin:5px;
     display: flex;
