@@ -34,10 +34,221 @@ header ul li.logo{
     margin-right: auto;
 }
 
+.pagewrapper .content2{
+    margin:5px;
+    display: flex;
+    height: 750px;
+    background-color:#F7FDF6;
+    justify-content: center;
+}
+
+i.fas{
+    padding-top: 20%;
+}
+
+
+.fa-hamburger{
+    color: #EFA92E;
+    font-size: 100px;
+}
+
+.fa-truck{
+    color: #EFA92E;
+    font-size: 100px;
+}
+
+.fa-wine-bottle{
+    color: #EFA92E;
+    font-size: 100px;
+}
+
+.content2 h2{
+    color: #551312;
+}
+
+.pagewrapper .content2 .qualityburgers{
+    margin-right: 20px;
+    margin-top: 125px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #7D414A;
+    background-color: rgb(247, 253, 246);
+    width: 30%;
+    height: 70%;
+    float: left;
+}
+
+.pagewrapper .content2 .fastdelivery{
+    margin-top: 90px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #7D414A;
+    background-color: rgb(247, 253, 246);
+    width: 30%;
+    height: 80%;
+}
+.pagewrapper .content2 .deliciousmeals{
+    float: right;
+    margin-left: 20px;
+    margin-top: 125px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #7D414A;
+    background-color:rgb(247, 253, 246);
+    width: 30%;
+    height: 70%;
+}
+
+
+.pagewrapper .content4{
+    margin:5px;
+    display: flex;
+    justify-content: space-between;
+    height: 700px;
+    background-color:ivory;
+}
+
+.orange{
+    color: #FEBE42;
+}
+
+.double-text p, h1{
+    font-size: 40px;
+    
+}
+
+ .deckerimage img{
+    display: block;
+    float: right;
+    position: relative;
+}
+
 
 /* Page Wrapper */
-.pagewrapper{
+/*.pagewrapper{
     min-height: 100vh;
+}*/
+
+.pagewrapper .content5{
+    padding: 20px;
+    margin: 2px;
+    height: 650px;
+    width: 100%;
+    /*border: 2px solid blue;*/
+    box-sizing: content-box;
+    display: flex;
+    background-color: #F6B531;
+}
+
+
+
+
+#Menuspan{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+}
+.first-row ,.second-row{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    max-width: 100%;
+    justify-content: center;
+}
+
+#Menuspan span{
+    color: #FEC134;
+}
+
+.SeekPng1, .SeekPng2, .SeekPng3, .SeekPng4, .SeekPng5, .SeekPng6{
+    margin: 20px;
+    font-size: 18px;
+    text-align: center;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px; 
+}
+
+
+#doubledeck{
+    padding-left: 50px;
+}
+
+#explosion{
+    padding-left: 50px;
+    font-size: 25px;
+    font-weight: var(#FFFFFF);
+}
+
+.pagewrapper .content5 .discover{
+    padding: 5x;
+    margin: 5px;
+    height: 600px;
+    width: 40%;
+    /*border: 2px solid red;*/
+    box-sizing: content-box;
+    margin-left: 40px;
+}
+
+.discover p{
+    font-size: 60px;
+    margin-left: 40px;
+    padding-top: 30px;
+
+}
+
+.discover img{
+   align-items: center;
+}
+
+#google{
+    width: 30%;
+    height: auto;
+    padding-left: 40px;
+}
+
+#appstore{
+    width: 50%;
+    height: auto;
+    padding-bottom: 40px;  
+    
+}
+
+.pagewrapper .content5 .phone{
+    padding: 5x;
+    margin: 5px;
+    height: 600px;
+    width: 55%;
+    /*border: 2px solid red;*/
+    box-sizing: content-box;
+    
+}
+
+.phone{
+   
+    justify-content: left;
+}
+
+#mobile1{
+    width: 28%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+}
+
+#mobile2{
+    width: 28%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    float: right;
+    padding-right: 300px;
+    margin-bottom: 5px;
 }
 
 
@@ -61,7 +272,7 @@ header ul li.logo{
 .footer .footer-content .footer-section{
     flex: 1;
     padding: 25px;
-    border: 1px solid blue;
+    /*border: 1px solid blue;*/
     margin-bottom: 20px;
 }
 
