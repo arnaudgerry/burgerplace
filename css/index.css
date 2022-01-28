@@ -74,6 +74,32 @@ header ul li.logo{
     background-color: #F6B531;
 }
 
+#Menuspan{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+}
+.first-row ,.second-row{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    max-width: 100%;
+    justify-content: center;
+}
+
+.SeekPng1, .SeekPng2, .SeekPng3, .SeekPng4, .SeekPng5, .SeekPng6{
+    margin: 20px;
+    font-size: 18px;
+    background-color: #dce6df;
+    text-align: center;
+    width: 500px;
+    padding: 1 px solid orange ;
+    border-radius: 10px;
+   
+}
+
+
+
 #doubledeck{
     padding-left: 50px;
 }
