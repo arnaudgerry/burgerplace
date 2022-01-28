@@ -90,11 +90,11 @@ header ul li.logo{
 .SeekPng1, .SeekPng2, .SeekPng3, .SeekPng4, .SeekPng5, .SeekPng6{
     margin: 20px;
     font-size: 18px;
-    background-color: #dce6df;
     text-align: center;
     width: 500px;
-    padding: 1 px solid orange ;
     border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+
    
 }
 
