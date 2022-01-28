@@ -42,6 +42,30 @@ header ul li.logo{
     justify-content: center;
 }
 
+i.fas{
+    padding-top: 20%;
+}
+
+
+.fa-hamburger{
+    color: #EFA92E;
+    font-size: 100px;
+}
+
+.fa-truck{
+    color: #EFA92E;
+    font-size: 100px;
+}
+
+.fa-wine-bottle{
+    color: #EFA92E;
+    font-size: 100px;
+}
+
+.content2 h2{
+    color: #551312;
+}
+
 .pagewrapper .content2 .qualityburgers{
     margin-right: 20px;
     margin-top: 125px;
