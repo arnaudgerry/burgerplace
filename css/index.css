@@ -34,6 +34,51 @@ header ul li.logo{
     margin-right: auto;
 }
 
+.pagewrapper .content2{
+    margin:5px;
+    display: flex;
+    height: 750px;
+    background-color:#F7FDF6;
+    justify-content: center;
+}
+
+.pagewrapper .content2 .qualityburgers{
+    margin-right: 20px;
+    margin-top: 125px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #7D414A;
+    background-color: rgb(247, 253, 246);
+    width: 30%;
+    height: 70%;
+    float: left;
+}
+
+.pagewrapper .content2 .fastdelivery{
+    margin-top: 90px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #7D414A;
+    background-color: rgb(247, 253, 246);
+    width: 30%;
+    height: 80%;
+}
+.pagewrapper .content2 .deliciousmeals{
+    float: right;
+    margin-left: 20px;
+    margin-top: 125px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #7D414A;
+    background-color:rgb(247, 253, 246);
+    width: 30%;
+    height: 70%;
+}
+
+
 .pagewrapper .content4{
     margin:5px;
     display: flex;
@@ -74,6 +119,9 @@ header ul li.logo{
     background-color: #F6B531;
 }
 
+
+
+
 #Menuspan{
     text-align: center;
     font-size: 50px;
@@ -87,17 +135,18 @@ header ul li.logo{
     justify-content: center;
 }
 
+#Menuspan span{
+    color: #FEC134;
+}
+
 .SeekPng1, .SeekPng2, .SeekPng3, .SeekPng4, .SeekPng5, .SeekPng6{
     margin: 20px;
     font-size: 18px;
     text-align: center;
     width: 500px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px;
-
-   
+    box-shadow: 5px 5px 5px; 
 }
-
 
 
 #doubledeck{
