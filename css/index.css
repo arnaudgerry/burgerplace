@@ -34,6 +34,29 @@ header ul li.logo{
     margin-right: auto;
 }
 
+.pagewrapper .content4{
+    margin:5px;
+    display: flex;
+    justify-content: space-between;
+    height: 700px;
+    background-color:ivory;
+}
+
+.orange{
+    color: #FEBE42;
+}
+
+.double-text p, h1{
+    font-size: 40px;
+    
+}
+
+ .deckerimage img{
+    display: block;
+    float: right;
+    position: relative;
+}
+
 
 /* Page Wrapper */
 /*.pagewrapper{
@@ -49,6 +72,16 @@ header ul li.logo{
     box-sizing: content-box;
     display: flex;
     background-color: #F6B531;
+}
+
+#doubledeck{
+    padding-left: 50px;
+}
+
+#explosion{
+    padding-left: 50px;
+    font-size: 25px;
+    font-weight: var(#FFFFFF);
 }
 
 .pagewrapper .content5 .discover{
